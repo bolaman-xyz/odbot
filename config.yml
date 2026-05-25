@@ -9,12 +9,12 @@
 # BOT INFORMATION
 # You must not leave them as blank!
 # ===========================================================================
-Token: "MTUwODQ5MjIyNjUzNDMxNDAwNA.G6cEoT.94-i0hL5-E6tBIYPM54TvD8pWqTU-_Jj8qWgts" # If you don't know how to get it, Look at our docs: https://docs.plexdevelopment.net
+Token: "MTUwODQ5MjIyNjUzNDMxNDAwNA.G1lzkl.9P67YLa9-KmCDli1p315UdIj9cHBT_RxPEt9CI" # If you don't know how to get it, Look at our docs: https://docs.plexdevelopment.net
 GuildID: "1387361596191408288" # This is your server's ID, Right click on your server icon and copy ID
 EmbedColors: "#9900ff" # Hex color!
 LogCommands: false # If this is enabled it will log all the commands executed to the terminal
 Statistics: false # Show statistics in terminal when the bot starts?
-MongoURI: "mongodb://mongo:HrDyHcXbMDKFFgKYeEdQWnKNRqKrtNDR@mongodb.railway.internal:27017" # https://docs.plexdevelopment.net/plex-licenses/creating-a-mongodb-cluster
+MongoURI: "mongodb://mongo:UrPayOawzNJYwKcmlklYEZHZWVGoohkS@mongodb.railway.internal:27017" # https://docs.plexdevelopment.net/plex-licenses/creating-a-mongodb-cluster
 
 # ===========================================================================
 # BOT ACTIVITY
