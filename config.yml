@@ -14,7 +14,7 @@ GuildID: "1387361596191408288" # This is your server's ID, Right click on your s
 EmbedColors: "#9900ff" # Hex color!
 LogCommands: false # If this is enabled it will log all the commands executed to the terminal
 Statistics: false # Show statistics in terminal when the bot starts?
-MongoURI: "mongodb://mongo:UrPayOawzNJYwKcmlklYEZHZWVGoohkS@mongodb.railway.internal:27017" # https://docs.plexdevelopment.net/plex-licenses/creating-a-mongodb-cluster
+MongoURI: "mongodb+srv://pcfoulme22_db_user:ewdWODJOOrsjRVhW@cluster0.zypysda.mongodb.net/plextickets?appName=Cluster0" # https://docs.plexdevelopment.net/plex-licenses/creating-a-mongodb-cluster
 
 # ===========================================================================
 # BOT ACTIVITY
